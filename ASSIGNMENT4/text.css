@@ -1,0 +1,81 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+div{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.357);
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+form{
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    font-weight: 900;
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+label{
+    padding: 0px 10px;
+    width: 40%;
+}
+
+input{
+    padding: 15px 20px;
+    margin: 10px 0px;
+    width: 50%;
+    outline:#ffff;
+}
+
+
+.email-tag{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+#email_id{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#submit{
+   margin: 20px 0px;
+    border: none;
+    background-color: red;
+    color: #ffff;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    width: 30%;
+    margin: 0 auto;
+    
+}
+
+.sub-marks{
+    display: block;
+    text-align: center;
+}
+
+#text{
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
